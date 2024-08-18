@@ -1,6 +1,6 @@
-module mvdan.cc/garble
+module github.com/GamerHun1238/garble
 
-go 1.22
+go 1.23
 
 require (
 	github.com/bluekeyes/go-gitdiff v0.7.4
